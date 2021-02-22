@@ -13,6 +13,7 @@ B.E., Digital Media Technology, School of Software, Yunnan University, Kunming, 
 
 ### Relevant Work Experiences
 * Sept. 2020 - Present, Senior R&D Engineer (Natural Language Processing & Recommender System), Tencent, Shenzhen, China
+
 Explore causal inference on sentiment analysis and news recommendation.
 
 * May 2018 - Sept. 2020, Senior R&D Engineer (Natural Language Processing), Baidu, Shenzhen, China
