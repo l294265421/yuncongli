@@ -21,4 +21,4 @@ In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language 
 * **Sentence Constituent-Aware Aspect-Category Sentiment Analysis with Graph Attention Networks** <br>
 **Yuncong Li**, Cunxiang Yin, Sheng-hua Zhong. <br>
 In _Proceedings of the 9th CCF International Conference on Natural Language Processing and Chinese Computing_ (**NLPCC 2020**). <br>
-[[paper](https://arxiv.org/abs/2010.01461)][[code](https://github.com/l294265421/SCAN)]
+[[paper](https://arxiv.org/pdf/2010.01461.pdf)][[code](https://github.com/l294265421/SCAN)]
