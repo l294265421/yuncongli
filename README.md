@@ -1,20 +1,20 @@
-I am an application researcher at Tencent.
-
-Email: yuncongli AT tencent DOT com
+### Personal Information
+* Name: Yuncong Li
+* Gender: Male
+* Email: yuncongli AT tencent DOT com
 
 ### Education
 * Sept. 2010 - Jun. 2015,
-B.E., School of Electronic Engineering, Yunnan University
+B.E., Digital Media Technology, School of Software, Yunnan University, Kunming, Yunnan, China
 
 ### Research interests
 * Opinion Mining and Sentiment Analysis
 * Information Extraction
 
-### Work Experiences
-* Sept. 2020 - Present, Senior R&D Engineer, Tencent
-* May 2018 - Sept. 2020, Senior R&D Engineer, Baidu
-* Feb. 2016 - May 2018, Algorithm Engineer, Shenzhen Suishou Technology
-* Jul. 2015 - Feb. 2016, Java Engineer, Channelsoft (Beijing) Technology 
+### Relevant Work Experiences
+* Sept. 2020 - Present, Senior R&D Engineer (Natural Language Processing & Recommender System), Tencent, Shenzhen, China
+
+* May 2018 - Sept. 2020, Senior R&D Engineer (Natural Language Processing), Baidu, Shenzhen, China
 
 ### Publications [[Google Scholar](https://scholar.google.com/citations?user=DDe-NB4AAAAJ&hl=zh-CN)]
 * **Multi-Instance Multi-Label Learning Networks for Aspect-Category Sentiment Analysis** <br>
