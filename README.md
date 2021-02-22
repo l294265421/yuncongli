@@ -11,10 +11,10 @@ B.E., School of Electronic Engineering, Yunnan University
 * Information Extraction
 
 ### Work Experiences
-* Sept. 2020 - Present, Research Intern, Tencent
-* May 2018 - Sept. 2020, Research Intern, Baidu
-* Feb. 2016 - May 2018, Research Intern, Shenzhen Suishou Technology
-* Jul. 2015 - Feb. 2016, Research Intern, Channelsoft (Beijing) Technology 
+* Sept. 2020 - Present, Senior R&D Engineer, Tencent
+* May 2018 - Sept. 2020, Senior R&D Engineer, Baidu
+* Feb. 2016 - May 2018, Algorithm Engineer, Shenzhen Suishou Technology
+* Jul. 2015 - Feb. 2016, Java Engineer, Channelsoft (Beijing) Technology 
 
 ### Publications [[Google Scholar](https://scholar.google.com/citations?user=DDe-NB4AAAAJ&hl=zh-CN)]
 * **Multi-Instance Multi-Label Learning Networks for Aspect-Category Sentiment Analysis** <br>
