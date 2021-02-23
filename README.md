@@ -3,6 +3,8 @@
 * Gender: Male
 * Email: yuncongli AT tencent DOT com
 
+### Personal Statement
+
 ### Education
 * Sept. 2010 - Jun. 2015,
 B.E., Digital Media Technology, School of Software, Yunnan University, Kunming, Yunnan, China
