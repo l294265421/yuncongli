@@ -41,5 +41,5 @@ In _Proceedings of the 19th Chinese National Conference on Computational Linguis
 In _Proceedings of the 19th Chinese National Conference on Computational Linguistics_ (**CCL 2020**). <br>
 [[paper](https://www.aclweb.org/anthology/2020.ccl-1.100.pdf)]
 
-# Awards
+### Awards
 * 2014, the third-prize scholarship in university (top 10%)
