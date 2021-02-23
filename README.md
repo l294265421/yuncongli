@@ -13,12 +13,12 @@ B.E., Digital Media Technology, School of Software, Yunnan University, Kunming, 
 
 ### Relevant Work Experiences
 * Sept. 2020 - Present, Senior R&D Engineer (Natural Language Processing & Recommender System), Tencent, Shenzhen, China
-    * Explore casual inference, especially counterfactual learning, on news recommendation. Our goal is to improve the performance of our news recommender system for silent users in [QQ Browser](https://feeds.qq.com/).
+    * News Recommendation: Explore casual inference, especially counterfactual learning, on news recommendation. Our goal is to improve the performance of our news recommender system for silent users in [QQ Browser](https://feeds.qq.com/).
 * May 2018 - Sept. 2020, Senior R&D Engineer (Natural Language Processing), Baidu, Shenzhen, China
-    * Opinion mining and sentiment analysis: propose and implement algorithms which predict the sentiments of texts or extract opinion triplets from texts.
+    * Opinion Mining and Sentiment Analysis: propose and implement algorithms which predict the sentiments of texts or extract opinion triplets from texts.
     * Topic Detection and Tracking: implement algorithms which cluster news and generate storyline.
     * Event Evolutionary Graph: implement algorithms which first extract events from texts, then recognize their relations (e.g. causal relation and temporal relation), finally construct event evolutionary graph based on the events and relations.
-    * The algorithms were deployed on [Baidu yuqing](http://yuqing.baidu.com/saas/intro/newindex?castk=LTE%3D).
+    * These algorithms were deployed on [Baidu yuqing](http://yuqing.baidu.com/saas/intro/newindex?castk=LTE%3D).
 
 ### Publications [[Google Scholar](https://scholar.google.com/citations?user=DDe-NB4AAAAJ&hl=zh-CN)]
 * **Multi-Instance Multi-Label Learning Networks for Aspect-Category Sentiment Analysis** <br>
