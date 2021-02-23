@@ -45,5 +45,8 @@ In _Proceedings of the 19th Chinese National Conference on Computational Linguis
 
 * One paper in the field of sentiment analysis is under review in ACL 2021.
 
+### Skills
+Python, PyTorch, TensorFlow
+
 ### Awards
 * 2014, the third-prize scholarship in university (top 10%)
