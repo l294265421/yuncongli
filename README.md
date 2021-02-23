@@ -1,12 +1,12 @@
 ### Personal Information
 * Name: Yuncong Li
 * Gender: Male
-* Email: yuncongli AT tencent DOT com
+* Email: yuncongli@tencent.com
 * WeChat: 13715203776
 
 ### Education
 * Sept. 2010 - Jun. 2015,
-B.E., Digital Media Technology, School of Software, Yunnan University, Kunming, Yunnan, China
+B.Eng, Digital Media Technology, School of Software, Yunnan University
 
 ### Research interests
 * Opinion Mining and Sentiment Analysis
