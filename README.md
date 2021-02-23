@@ -43,7 +43,7 @@ In _Proceedings of the 19th Chinese National Conference on Computational Linguis
 In _Proceedings of the 19th Chinese National Conference on Computational Linguistics_ (**CCL 2020**). <br>
 [[paper](https://www.aclweb.org/anthology/2020.ccl-1.103.pdf)]
 
-* One paper in the field of sentiment analysis is under review in ACL 2021.
+* Two papers in the field of sentiment analysis are under review in ACL 2021.
 
 ### Skills
 Programming Language: Python, Java, C, C++
