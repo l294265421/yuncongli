@@ -46,8 +46,8 @@ In _Proceedings of the 19th Chinese National Conference on Computational Linguis
 * Two papers in the field of sentiment analysis are under review in ACL 2021.
 
 ### Skills
-Programming Language: Python, Java, C, C++
-Deep Learning Framework: PyTorch, TensorFlow
+* Programming Language: Python, Java, C, C++
+* Deep Learning Framework: PyTorch, TensorFlow
 
 ### Awards
 * 2014, the third-prize scholarship in university (top 10%)
