@@ -31,15 +31,15 @@ In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language 
 In _Proceedings of the 9th CCF International Conference on Natural Language Processing and Chinese Computing_ (**NLPCC 2020**). <br>
 [[paper](https://arxiv.org/pdf/2010.01461.pdf)][[code](https://github.com/l294265421/SCAN)]
 
-* **A Joint Model for Aspect-Category Sentiment Analysis with Shared Sentiment Prediction Layer** <br>
-**Yuncong Li**, Zhe Yang, Cunxiang Yin, Xu Pan, Lunan Cui, Qiang Huang, Ting Wei. <br>
-In _Proceedings of the 19th Chinese National Conference on Computational Linguistics_ (**CCL 2020**). <br>
-[[paper](https://www.aclweb.org/anthology/2020.ccl-1.103.pdf)]
-
 * **Better Queries for Aspect-Category Sentiment Classification** <br>
 **Yuncong Li**, Cunxiang Yin, Sheng-hua Zhong, Huiqiang Zhong, Jinchang Luo, Siqi Xu, Xiaohui Wu. <br>
 In _Proceedings of the 19th Chinese National Conference on Computational Linguistics_ (**CCL 2020**). <br>
 [[paper](https://www.aclweb.org/anthology/2020.ccl-1.100.pdf)]
+
+* **A Joint Model for Aspect-Category Sentiment Analysis with Shared Sentiment Prediction Layer** <br>
+**Yuncong Li**, Zhe Yang, Cunxiang Yin, Xu Pan, Lunan Cui, Qiang Huang, Ting Wei. <br>
+In _Proceedings of the 19th Chinese National Conference on Computational Linguistics_ (**CCL 2020**). <br>
+[[paper](https://www.aclweb.org/anthology/2020.ccl-1.103.pdf)]
 
 ### Awards
 * 2014, the third-prize scholarship in university (top 10%)
