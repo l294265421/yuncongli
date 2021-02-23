@@ -2,6 +2,7 @@
 * Name: Yuncong Li
 * Gender: Male
 * Email: yuncongli AT tencent DOT com
+* WeChat: 13715203776
 
 ### Education
 * Sept. 2010 - Jun. 2015,
