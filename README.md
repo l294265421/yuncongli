@@ -23,6 +23,11 @@ B.Eng, Digital Media Technology, School of Software, Yunnan University
     * These algorithms were deployed on [Baidu yuqing](http://yuqing.baidu.com/saas/intro/newindex?castk=LTE%3D).
 
 ### Publications [[Google Scholar](https://scholar.google.com/citations?user=DDe-NB4AAAAJ&hl=zh-CN)]
+* **A More Fine-Grained Aspect-Sentiment-Opinion Triplet Extraction Task** <br>
+Fang Wang, **Yuncong Li**, Wenjun Zhang, Sheng-hua Zhong. <br>
+In _arxiv_. <br>
+[[paper](https://arxiv.org/pdf/2103.15255.pdf)][[code](https://github.com/l294265421/ASOTE)]
+
 * **Multi-Instance Multi-Label Learning Networks for Aspect-Category Sentiment Analysis** <br>
 **Yuncong Li**, Cunxiang Yin, Sheng-hua Zhong, Xu Pan. <br>
 In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing_ (**EMNLP 2020**). <br>
