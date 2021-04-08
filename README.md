@@ -22,7 +22,7 @@ B.Eng, Digital Media Technology, School of Software, Yunnan University
     * Event Evolutionary Graph: implement algorithms which first extract events from texts, then recognize their relations (e.g. causal relation and temporal relation), finally construct event evolutionary graph based on the events and relations.
     * These algorithms were deployed on [Baidu yuqing](http://yuqing.baidu.com/saas/intro/newindex?castk=LTE%3D).
 
-### Publications [[Google Scholar](https://scholar.google.com/citations?user=DDe-NB4AAAAJ&hl=zh-CN)]
+### Manuscripts & Publications [[Google Scholar](https://scholar.google.com/citations?user=DDe-NB4AAAAJ&hl=zh-CN)]
 * **A More Fine-Grained Aspect-Sentiment-Opinion Triplet Extraction Task** <br>
 Fang Wang, **Yuncong Li**, Wenjun Zhang, Sheng-hua Zhong. <br>
 _arxiv:2103.15255_. <br>
