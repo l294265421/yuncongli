@@ -11,6 +11,7 @@ B.Eng, Digital Media Technology, School of Software, Yunnan University
 ### Research interests
 * Opinion Mining and Sentiment Analysis
 * Information Extraction
+* Recommender System
 
 ### Relevant Work Experiences
 * Sept. 2020 - Present, Senior Research and Development Engineer (Natural Language Processing & Recommender System), Tencent, Shenzhen, China
