@@ -1,6 +1,5 @@
 ### Personal Information
 * Name: Yuncong Li
-* Gender: Male
 * Email: yuncongli@tencent.com
 * WeChat: 13715203776
 
