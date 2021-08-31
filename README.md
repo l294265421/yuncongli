@@ -14,7 +14,7 @@ B.Eng, Digital Media Technology, School of Software, Yunnan University
 
 ### Manuscripts & Publications [[Google Scholar](https://scholar.google.com/citations?user=DDe-NB4AAAAJ&hl=zh-CN)]
 * **A More Fine-Grained Aspect-Sentiment-Opinion Triplet Extraction Task** <br>
-Fang Wang, **Yuncong Li**, Wenjun Zhang, Sheng-hua Zhong. <br>
+**Yuncong Li**, Fang Wang, Wenjun Zhang, Sheng-hua Zhong, Cunxiang Yin, Yancheng He. <br>
 _arxiv:2103.15255_. <br>
 [[paper](https://arxiv.org/pdf/2103.15255.pdf)][[code](https://github.com/l294265421/ASOTE)]
 
