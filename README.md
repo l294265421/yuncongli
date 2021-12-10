@@ -18,6 +18,11 @@ B.Eng, Digital Media Technology, School of Software, Yunnan University
 _arxiv:2103.15255_. <br>
 [[paper](https://arxiv.org/pdf/2103.15255.pdf)][[code](https://github.com/l294265421/ASOTE)]
 
+* **Aspect-Sentiment-Multiple-Opinion Triplet Extraction** <br>
+Fang Wang, **Yuncong Li**, Sheng-hua Zhong, Cunxiang Yin, Yancheng He. <br>
+In _Proceedings of the 10th CCF International Conference on Natural Language Processing and Chinese Computing_ (**NLPCC 2021**). <br>
+[[paper](https://arxiv.org/pdf/2110.07303.pdf)][[code](https://github.com/l294265421/ASMOTE)]
+
 * **Multi-Instance Multi-Label Learning Networks for Aspect-Category Sentiment Analysis** <br>
 **Yuncong Li**, Cunxiang Yin, Sheng-hua Zhong, Xu Pan. <br>
 In _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing_ (**EMNLP 2020**). <br>
