@@ -13,6 +13,11 @@ B.Eng, Digital Media Technology, School of Software, Yunnan University
 * Recommender System
 
 ### Manuscripts & Publications [[Google Scholar](https://scholar.google.com/citations?user=DDe-NB4AAAAJ&hl=zh-CN)]
+* **Training Entire-Space Models for Target-oriented Opinion Words Extraction** <br>
+**Yuncong Li**, Fang Wang, Sheng-hua Zhong. <br>
+In _Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22)_ (**SIGIR 2022 Short Paper**). <br>
+[[paper](https://arxiv.org/pdf/2204.07337.pdf)][[code](https://github.com/l294265421/SIGIR22-TOWE)]
+
 * **A More Fine-Grained Aspect-Sentiment-Opinion Triplet Extraction Task** <br>
 **Yuncong Li**, Fang Wang, Wenjun Zhang, Sheng-hua Zhong, Cunxiang Yin, Yancheng He. <br>
 _arxiv:2103.15255_. <br>
