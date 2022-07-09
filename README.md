@@ -59,7 +59,7 @@ In _Proceedings of the 19th Chinese National Conference on Computational Linguis
     * These algorithms were deployed on [Baidu yuqing](http://yuqing.baidu.com/saas/intro/newindex?castk=LTE%3D).
 
 ### Professional Activities
-- Reviewer: EMNLP 2021
+- Reviewer: EMNLP 2021, EMNLP 2022
 
 ### Skills
 * Programming Language: Python, Java, C, C++
