@@ -13,6 +13,11 @@ B.Eng, Digital Media Technology, School of Software, Yunnan University
 * Recommender System
 
 ### Manuscripts & Publications [[Google Scholar](https://scholar.google.com/citations?user=DDe-NB4AAAAJ&hl=zh-CN)]
+* **Modeling User Repeat Consumption Behavior for Online Novel Recommendation** <br>
+**Yuncong Li**, Cunxiang Yin, Yancheng He, Guoqiang Xu, Jing Cai, Leeven Luo, Sheng-hua Zhong. <br>
+In _Sixteenth ACM Conference on Recommender Systems (RecSys ’22)_ (**RecSys 2022**). <br>
+[[paper](https://dl.acm.org/doi/pdf/10.1145/3523227.3546762)][[code](https://github.com/l294265421/NovelNet)]
+
 * **Training Entire-Space Models for Target-oriented Opinion Words Extraction** <br>
 **Yuncong Li**, Fang Wang, Sheng-hua Zhong. <br>
 In _Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22)_ (**SIGIR 2022 Short Paper**). <br>
@@ -59,7 +64,7 @@ In _Proceedings of the 19th Chinese National Conference on Computational Linguis
     * These algorithms were deployed on [Baidu yuqing](http://yuqing.baidu.com/saas/intro/newindex?castk=LTE%3D).
 
 ### Professional Activities
-- Reviewer: EMNLP 2021
+- Reviewer: EMNLP 2021, EMNLP 2022
 
 ### Skills
 * Programming Language: Python, Java, C, C++
