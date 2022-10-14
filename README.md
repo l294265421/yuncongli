@@ -23,6 +23,14 @@ In _Sixteenth ACM Conference on Recommender Systems (RecSys ’22)_ (**RecSys 20
 In _Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22)_ (**SIGIR 2022 Short Paper**). <br>
 [[paper](https://arxiv.org/pdf/2204.07337.pdf)][[code](https://github.com/l294265421/SIGIR22-TOWE)]
 
+* **Learning Discriminative Representation Base on Attention for Uplift** <br>
+Guoqiang Xu, Cunxiang Yin, Yuchen Zhang, **Yuncong Li**, Yancheng He, Jing Cai, Zhongyu Wei. <br>
+In _Proceedings of the 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining_ (**PAKDD 2022**)
+
+* **Causal Enhanced Uplift Model** <br>
+Xiaofeng He, Guoqiang Xu, Cunxiang Yin, Zhongyu Wei, **Yuncong Li**, Yancheng He, Jing Cai. <br>
+In _Proceedings of the 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining_ (**PAKDD 2022**)
+
 * **A More Fine-Grained Aspect-Sentiment-Opinion Triplet Extraction Task** <br>
 **Yuncong Li**, Fang Wang, Wenjun Zhang, Sheng-hua Zhong, Cunxiang Yin, Yancheng He. <br>
 _arxiv:2103.15255_. <br>
