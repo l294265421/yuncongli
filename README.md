@@ -46,7 +46,8 @@ In _Proceedings of the 19th Chinese National Conference on Computational Linguis
 * **A Joint Model for Aspect-Category Sentiment Analysis with Shared Sentiment Prediction Layer** <br>
 **Yuncong Li**, Zhe Yang, Cunxiang Yin, Xu Pan, Lunan Cui, Qiang Huang, Ting Wei. <br>
 In _Proceedings of the 19th Chinese National Conference on Computational Linguistics_ (**CCL 2020**). <br>
-[[paper](https://www.aclweb.org/anthology/2020.ccl-1.103.pdf)]
+[[paper](https://www.aclweb.org/anthology/2020.ccl-1.103.pdf)][[code](https://github.com/l294265421/ACSA-SSPL)]
+
 
 ### Relevant Work Experiences
 * Sept. 2020 - Present, Senior Research and Development Engineer (Natural Language Processing & Recommender System), Tencent, Shenzhen, China
